@@ -1,0 +1,23 @@
+missing module named _sysconfigdata_d - imported by _sysconfigdata
+missing module named 'org.python' - imported by copy
+missing module named SOCKS - imported by ftplib
+missing module named _winreg - imported by mimetypes, urllib
+missing module named _dummy_threading - imported by dummy_threading
+missing module named _scproxy - imported by urllib
+missing module named EasyDialogs - imported by getpass
+missing module named msvcrt - imported by subprocess, getpass
+missing module named rourl2path - imported by urllib
+missing module named riscosenviron - imported by os
+missing module named riscospath - imported by os
+missing module named riscos - imported by os
+missing module named ce - imported by os
+missing module named _emx_link - imported by os
+missing module named os2 - imported by os
+missing module named nt - imported by os, ntpath
+missing module named 'urllib3.packages.six.moves' - imported by urllib3.exceptions, urllib3.connectionpool, urllib3.connection, urllib3.util.response, urllib3.request, urllib3.response, urllib3.poolmanager
+missing module named backports - imported by urllib3.packages.ssl_match_hostname
+missing module named 'ctypes.macholib' - imported by ctypes.util
+missing module named netbios - imported by uuid
+missing module named win32wnet - imported by uuid
+missing module named org - imported by pickle
+missing module named _subprocess - imported by subprocess
